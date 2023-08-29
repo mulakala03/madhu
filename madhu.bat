@@ -1,1 +1,4 @@
-cmd /c bat echo "hey, jenkins!"
+@echo off 
+Rem This program just displays Hello World 
+set message=Hello World 
+echo %message%
