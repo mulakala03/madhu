@@ -1,1 +1,1 @@
-echo "hey, hello!"
+bat 'echo "hey, hello!"'
