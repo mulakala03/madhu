@@ -1,1 +1,1 @@
-bat 'echo "hey, jenkins!"'
+bat echo "hey, jenkins!"
